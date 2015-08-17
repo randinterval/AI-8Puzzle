@@ -1,0 +1,5 @@
+digraph ai {
+graph [	size="40,40",ratio="fill",orientation=portrait ];
+node [color=lightblue2, style=filled];
+node1 [label="PAKAIT SN" ]
+}

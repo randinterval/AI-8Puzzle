@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/files">
+        <file>images/Assignment.jpg</file>
+        <file>images/tree.gif</file>
+        <file>images/baringtonia01L.png</file>
+    </qresource>
+</RCC>
