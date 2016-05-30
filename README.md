@@ -14,6 +14,8 @@ The following algorithms have been implemented to solve the problem
 * BFS
 * IDS
 
+Also implemented AStar
+
 # Tree Printing Visualization
 
 Tree is visualized through Graphwhiz i.e the tree is serialized to dot format and than the dot file is parsed through Graphwhiz Compiler
